@@ -1,6 +1,8 @@
 # cis165-lab9
 cis165-lab9/   min_max.cpp   README.md   AI_REFLECTION.md
-Program Description
+
+Program Description:
+
 This program reads a series of integers from the user and determines the smallest and largest values entered. The program uses a while loop to continue reading numbers until the user enters -99.
 
 The value -99 is a sentinel value, meaning it signals the end of the input and is not included in the calculations.
